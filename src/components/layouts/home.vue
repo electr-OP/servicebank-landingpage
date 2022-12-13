@@ -442,7 +442,7 @@
                                     <img src="/src/assets/images/services/8370pexels-photo-263402.jpeg" alt="">
                                 </div>
                                 <div>
-                                    <img src="src/assets/images/services/581821100pexels-photo-263402.jpeg" alt="">
+                                    <img src="/src/assets/images/services/581821100pexels-photo-263402.jpeg" alt="">
                                     <h4>Hospitals</h4>
                                     <div class="list-rat-all">
 
